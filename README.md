@@ -31,10 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/arunkumarsukdevchavan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118343978/41377b0e-344e-4036-9239-5ac30347cd1b)
+![image](https://github.com/arunkumarsukdevchavan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118343978/2dc78aaa-aa59-44a0-80f7-1df234930ec4)
+
 
 ### Output:
-![image](https://github.com/arunkumarsukdevchavan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118343978/40d5b58c-6cd7-49a9-8426-a14e163388dc)
+![image](https://github.com/arunkumarsukdevchavan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118343978/a4c2c7f7-6f75-41f2-9d8d-172a7840f562)
 
 
 ### Name: ARUN KUMAR SUKDEV CHAVAN
